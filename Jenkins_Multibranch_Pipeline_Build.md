@@ -1,4 +1,4 @@
-# Create a New Jenkins Multibranc Pipeline Build
+# Create a New Jenkins Multibranch Pipeline Build
 
 September 15, 2023
 
