@@ -10,4 +10,6 @@ By:  Annie V Lam - Kura Labs
 4.  Under the "Branch Sources" section, select "GitHub"
 5.  Enter the GitHub Repository HTTP
 6.  Configure credentials, use your Github username and the token as password
-7.  Save
+7.  Under Discover Branches section Discover branches, select "All branches"
+8.  In the Build configuration section Script Path, enter the name of the Jenkins file
+9.  Save
