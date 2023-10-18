@@ -1,0 +1,194 @@
+
+
+1
+Select "Build Executor Status"
+
+2
+Click "New Node"
+
+3
+Type "awsDeploy" and select "Permanent Agent"
+
+4
+Click "Create"
+
+5
+For the name field type "awsDeploy"
+
+For the Remote root directory type "/home/ubuntu/agent1"
+
+
+6
+Type "awsDeploy" for the label
+
+
+
+7
+Click this dropdown and select "only build jobs with label expressions matrching this node"
+
+
+8
+Click this dropdown amd select launch agent via SSH
+
+
+9
+For "Host" enter the public IP of the instance
+
+
+10
+Click "Add"
+
+
+
+
+1
+Select "Build Executor Status"
+
+Screenshot of: Select "Build Executor Status"
+
+
+
+2
+Click "New Node"
+
+Screenshot of: Click "New Node"
+
+
+
+3
+Type "awsDeploy" and select "Permanent Agent"
+
+Screenshot of: Type "awsDeploy" and select "Permanent Agent"
+
+
+
+4
+Click "Create"
+
+Screenshot of: Click "Create"
+
+
+
+5
+For the name field type "awsDeploy"
+
+For the Remote root directory type "/home/ubuntu/agent1"
+
+Screenshot of: For the name field type "awsDeploy" 
+
+For the Remote root directory type "/home/ubuntu/agent1"
+
+
+
+6
+Type "awsDeploy" for the label
+
+Screenshot of: Type "awsDeploy" for the label 
+
+
+
+7
+Under Usage,click this dropdown and select "only build jobs with label expressions matrching this node"
+
+Screenshot of: Click this dropdown and select "only build jobs with label expressions matrching this node"
+
+
+
+8
+Launch method, click this dropdown amd select launch agent via SSH
+
+Screenshot of: Click this dropdown amd select launch agent via SSH
+
+
+
+9
+For "Host" enter the public IP of the instance
+
+Screenshot of: For "Host" enter the public IP of the instance
+
+
+
+10
+Click "Add"
+
+Screenshot of: Click "Add"
+
+
+
+11
+Click "Jenkins"
+
+
+12
+For King, click this dropdown and select SSH username with private key
+
+
+
+13
+For ID, type "awsDeploy"
+
+
+14
+Type "ubuntu" for username
+
+
+15
+Click "Enter directly"
+
+
+16
+Click "Add"
+
+
+17
+Paste in the private key here
+
+
+18
+Click "Add"
+
+19
+Click this dropdown and select ubuntu
+
+
+20
+Host Key Verification Strategy, click this dropdown and select "non verifying verification strategy"
+
+
+21
+Click "Save"
+
+
+22
+In a few minutes, you should see the awsDeploy in the Build Executor list
+
+
+23
+Click "awsDeploy"
+
+
+24
+Click "Log"
+
+
+25
+You should see the last line below if you were successful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
