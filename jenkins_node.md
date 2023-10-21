@@ -50,7 +50,9 @@
 
 25.  Click "Log"
 
-26. You should see the last line below if you were successful.
+26. You should see the last line below if you were successful
+
+27. Repeat above for "awsDeploy2"
 
 
 
